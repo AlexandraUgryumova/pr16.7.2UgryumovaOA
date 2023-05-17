@@ -1,0 +1,11 @@
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\bin\Debug\pr16.7Ugryumova_2.exe.config
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\bin\Debug\pr16.7Ugryumova_2.exe
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\bin\Debug\pr16.7Ugryumova_2.pdb
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\obj\Debug\pr16.7Ugryumova_2.csproj.AssemblyReference.cache
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\obj\Debug\pr16.7Ugryumova_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\obj\Debug\pr16._7Ugryumova_2.Form1.resources
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\obj\Debug\pr16._7Ugryumova_2.Properties.Resources.resources
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\obj\Debug\pr16.7Ugryumova_2.csproj.GenerateResource.cache
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\obj\Debug\pr16.7Ugryumova_2.csproj.CoreCompileInputs.cache
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\obj\Debug\pr16.7Ugryumova_2.exe
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova_2\pr16.7Ugryumova_2\obj\Debug\pr16.7Ugryumova_2.pdb
